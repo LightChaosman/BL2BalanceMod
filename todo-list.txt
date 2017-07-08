@@ -1,0 +1,12 @@
+Preliminary todolist:
+
+=== Nerfs ===
+- nerf unlisted pellets
+=== Buffs ===
+- Fix helios
+- Fix thoughtlock
+=== Redesign ===
+- Fix moneyshot
+- Fix sub sequence
+- redesign bee
+- self-absorb rockets
