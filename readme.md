@@ -11,7 +11,9 @@ Extremely broken stuff from the main game will be nerfed, weak stuff will get bu
 ## Coders
 
 LightChaosman
+
 ShadowEvil1996
+
 the_Nocturni
 
 ## Testers
