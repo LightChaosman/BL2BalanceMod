@@ -12,7 +12,7 @@ Extremely broken stuff from the main game will be nerfed, weak stuff will get bu
 
 LightChaosman
 
-ShadowEvil1996
+shadowevil1996
 
 the_Nocturni
 
