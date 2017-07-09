@@ -16,6 +16,10 @@ ShadowEvil1996
 
 the_Nocturni
 
+Jim Raven
+
+AngrierPat
+
 ## Testers
 
 Zububu
