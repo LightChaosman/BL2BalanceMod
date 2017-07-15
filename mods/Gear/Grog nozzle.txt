@@ -1,0 +1,20 @@
+#<hotfix><key>"SparkLevelPatchEntry-grog1"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_RandomBranch_34,Conditions[0],,75.0"</value><on>
+
+#<hotfix><key>"SparkLevelPatchEntry-grog2"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_RandomBranch_34,Conditions[1],,25.0"</value><on>
+
+#<hotfix><key>"SparkLevelPatchEntry-grog3"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_Metronome_51,TickInterval,,0.250000"</value><on>
+
+#<hotfix><key>"SparkLevelPatchEntry-grog4"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_AttributeEffect_31.SkillDefinition_0,SkillEffectDefinitions[0].BaseModifierValue.BaseValueConstant,,1.2"</value><on>
+
+#<hotfix><key>"SparkLevelPatchEntry-grog5"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_AttributeEffect_31.SkillDefinition_0,SkillEffectDefinitions[1].BaseModifierValue.BaseValueConstant,,0.75"</value><on>
+
+#<hotfix><key>"SparkLevelPatchEntry-grog6"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_AttributeEffect_31.SkillDefinition_0,SkillEffectDefinitions[2].ModifierType,,MT_PostAdd"</value><on>
+
+#<hotfix><key>"SparkLevelPatchEntry-grog7"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_AttributeEffect_31.SkillDefinition_0,SkillEffectDefinitions[2].BaseModifierValue.BaseValueConstant,,1.0"</value><on>
+
+#<hotfix><key>"SparkLevelPatchEntry-grog8"</key><value>",GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle:BehaviorProviderDefinition_3.Behavior_AttributeEffect_31.SkillDefinition_0,SkillEffectDefinitions[3].BaseModifierValue.BaseValueConstant,,0.1"</value><on>
+
+set GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.DamageEnhancementModifiers.PlayerConvertDamageToHealingPercent',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.250000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
+
+set GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
+
